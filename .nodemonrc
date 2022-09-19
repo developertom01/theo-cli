@@ -1,0 +1,4 @@
+{
+  "ignore": ["*.test.js", "**/fixtures/**"],
+  "ext": "ts"
+}
